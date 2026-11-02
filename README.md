@@ -57,6 +57,14 @@ Windows에서는 `gradlew.bat`를 사용합니다. 스키마·테스트 DB 설�
 
 백엔드 제출 마감은 **2026-12-04 23:59 KST**입니다. HA 구성과 성능은 설계·검증 예정입니다.
 
+## 담당 WBS
+
+[통합 WBS의 WP-TP-API 작업](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#wp-tp-api)에서 담당 범위를 관리합니다.
+
+API-01–12: API 계약·인증·자원·예약·알림·관리·통계와 API 검증
+
+선행 관계·기간·완료 기준·상태는 통합 문서를 기준으로 갱신합니다. [공통 인프라](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#infrastructure)와 [통합 검증](https://github.com/2026-2-web-programming-term-project/.github/blob/main/docs/WBS.md#integration)도 함께 확인합니다.
+
 ## 라이선스
 
 [Apache License 2.0](LICENSE)
